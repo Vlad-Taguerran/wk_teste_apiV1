@@ -1,0 +1,15 @@
+version: "3.8"
+
+services:
+  db:
+    image: mysql:8.0
+    container_name: database_wk
+    environment:
+      MYSQL_ROOT_PASSWORD: wk
+      MYSQL_DATABASE: wk
+      MYSQL_USER: wk
+      MYSQL_PASSWORD: wk
+    ports:
+      - "3306:3306"
+    expose:
+      - 3306
