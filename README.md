@@ -2,8 +2,8 @@
 
 Este projeto é uma API desenvolvida em **Java Spring Boot**, utilizando **MySQL** como banco de dados e rodando o banco via **Docker Compose**.
 API para o app :
-- [app_wk](https://github.com/Vlad-Taguerran/wk_teste_api.git)
--
+- [app_wk](https://github.com/Vlad-Taguerran/wk_teste_app.git)
+
 ## 🛠️ Requisitos
 Antes de iniciar o projeto, certifique-se de ter os seguintes requisitos instalados:
 
